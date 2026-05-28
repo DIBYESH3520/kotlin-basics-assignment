@@ -23,12 +23,5 @@ This is my Kotlin basics assignment for college. Contains 16 programs covering f
 | q15.kt | Fibonacci series |
 | q16.kt | Temperature converter |
 
-## How to run
 
-You can run these on [Kotlin Playground](https://play.kotlinlang.org/) just paste the code and hit run.
 
-Or if you have IntelliJ / Android Studio installed you can directly open and run them.
-
-## Note
-
-All programs use basic loops, functions and if-else. Written as part of 2nd year CSE coursework.
